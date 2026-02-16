@@ -1,4 +1,6 @@
 # Learning AI Agents
+Following 'Master AI Agents...' course on Udemy from Ed Donner.
+
 
 # Setup instructions
 

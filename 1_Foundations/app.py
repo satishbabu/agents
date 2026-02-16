@@ -1,6 +1,5 @@
 """
 Gradio app to compare responses from OpenAI, Claude, and Gemini.
-Based on logic from 1_Foundations/comapre_llms.ipynb
 """
 
 import os
